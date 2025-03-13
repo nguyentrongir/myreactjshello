@@ -5,11 +5,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Hello My Miniapp
+        Hello My Miniappgg
+        <a>My Button</a>
       </header>
-      <footer>
-        Copy righr
-      </footer>
+       
     </div>
   );
 }
